@@ -1,3 +1,4 @@
+![logo](https://github.com/aryan-sri/aryan-sri/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Aryan Srivastav</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
