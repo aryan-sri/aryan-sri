@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan-sri" alt="aryan-sri" /></a> </p>
 
-- 🔭 I’m currently studying **Computer Science at VIT Bhopal University**
+- 🔭 I’m currently studying **Computer Science Engineering at VIT Bhopal University**
 
 - 🌱 I’m currently learning **Android Development**
 
