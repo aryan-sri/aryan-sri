@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently studying **Computer Science Engineering at VIT Bhopal University**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Android Development **
 
 - 📫 How to reach me **aryansri708@gmail.com**
 
